@@ -55,8 +55,8 @@ This repository contains the actual project deliverables:
 
 | File | Purpose |
 |---|---|
-| 📄 [`cusotmers.csv`](cusotmers.csv) | Customer-level source data including country, membership tier and signup information |
-| 📄 [`orders.csv`](orders.csv) | Order-level data including product category, payment method and order status |
+| 📄 [`Customers.csv`](Customers.csv) | Customer-level source data including country, membership tier and signup information |
+| 📄 [`Orders.csv`](Orders.csv) | Order-level data including product category, payment method and order status |
 | 📄 [`Revenue.csv`](Revenue.csv) | Revenue, refund and payment-status records |
 | 📊 [`my_work.pbix`](my_work.pbix) | Interactive Power BI report, semantic model and DAX measures |
 | 🎥 [`record.mp4`](record.mp4) | Dashboard walkthrough / project demonstration |
